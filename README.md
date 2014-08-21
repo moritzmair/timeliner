@@ -4,11 +4,21 @@ Timeliner
 Timeliner is a privat project to make it possible overlaying historical maps onto current maps/satellite images.
 You can upload the maps, provide a year.
 
+A list of all images will be provied. Pick an image and you can place two pins at the same position like shown on a map on the right side. With these two points provided the real position of the map can be calculated.
+
+go to index.php?display=true to see the map with the images at the correct places
+
+Install
+-------
+- copy all files to an php/mysql capable web server
+- provide your mysql login data in classes/SPDO.php
+- open http://localhost/whereeveryouputit/index.php in your webbrowser
 
 Todo
 ----
 * set 2 points on a uloaded map and link them to the actual points on a satellite image or current map (osm).
 * create a nice place to view the historical maps together with the satellite images.
+* remove bug that 90° turned images are not shown correctly on the timeline
 
 
 
