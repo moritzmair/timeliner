@@ -46,3 +46,8 @@ Creators of the old map parts
 „Map Darmstadt 1980“ von 37th Transportation Group - U.S. Military Installation Atlas http://www.usarmygermany.com/USAREUR_City_Darmstadt.htm. Lizenziert unter Public domain über Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Map_Darmstadt_1980.jpg#mediaviewer/File:Map_Darmstadt_1980.jpg
 
 
+
+
+if you like to continue with the project: fork it or contact me.
+
+if you like it: https://flattr.com/profile/master92
