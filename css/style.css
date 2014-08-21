@@ -1,0 +1,54 @@
+body {
+  font-size:14px;
+  font-family: ubuntu, arial;
+  background-color: #eee;
+}
+
+.container {
+  background-color: #fff;
+  margin-top:20px;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.error_msg,
+.success_msg {
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.error_msg {
+  border: 1px solid red;
+  background-color: #f99;
+}
+.success_msg {
+  border: 1px solid green;
+  background-color: #9f9;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+#image_div {
+  position: relative;
+}
+
+.image_marker {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+#big_map {
+  height: 800px;
+  width: 100%;
+}
+
+.leaflet-overlay-pane img {
+  -webkit-transition: opacity 0.2s ease-in-out;
+  -moz-transition: opacity 0.2s ease-in-out;
+  -o-transition: opacity 0.2s ease-in-out;
+  transition: opacity 0.2s ease-in-out;
+}
